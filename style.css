@@ -1,0 +1,23 @@
+header {
+  text-align: center;
+  font-size: 60px;
+  background-size: cover;
+  color: black;
+}
+
+h3 {
+  font-size: 80px;
+}
+
+li {
+  display: inline;
+  padding: 0px 10px 0px 10px;
+
+
+p {
+  text-align: justify;
+  text-indent: 50px;  
+}
+
+
+
