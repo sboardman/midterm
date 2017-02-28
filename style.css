@@ -1,23 +1,36 @@
-header {
+header { 
   text-align: center;
-  font-size: 60px;
-  background-size: cover;
-  color: black;
-}
-
-h3 {
-  font-size: 80px;
 }
 
 li {
   display: inline;
-  padding: 0px 10px 0px 10px;
-
+}
 
 p {
   text-align: justify;
-  text-indent: 50px;  
+  text-indent: 50px; 
+  padding: inherit;
 }
 
+h3 {
+  text-align: center;
+}
+
+.stanton {
+  font-size: 60px;
+  font-style: bold;
+}
+
+.articles {
+  font-size: 20px;
+  text-align: center
+}
+
+.spacing {
+    padding-top: 20px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+  }
 
 
